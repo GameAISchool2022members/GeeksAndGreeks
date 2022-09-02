@@ -1,5 +1,7 @@
 # Readme
 
+Video: [https://youtu.be/KqIwRn-7ybU](https://youtu.be/KqIwRn-7ybU)
+
 ## Installation
 
 ```
